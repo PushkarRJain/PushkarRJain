@@ -2,7 +2,7 @@
 
 
 ## About me :mortar_board:
-I am a student, currently studying in Pune Institute of Computer Technology. I am interested in Development and always ready to contribute to a project that could help solve a problem.
+Pursuing Computer Engineering. Keen to learn new things and implement projects to find solutions to problems. I'm a Full Stack Developer and a ML enthusiast.
 
 ## Technologies I know :computer:
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
