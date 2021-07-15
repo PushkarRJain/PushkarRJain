@@ -17,16 +17,16 @@ I am a student, currently studying in Pune Institute of Computer Technology. I a
 </code><code><a href="https:#" target="_blank"><img height="50" src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png"></a></code>
 
 <br/>
-<br>
-### Languages:
+
+
+
+<br/>
+## Languages:
 <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-</br>
-
-
 <br/>
 
 <a href="https://github.com/master30112001">
