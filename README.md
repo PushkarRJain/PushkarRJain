@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Pushkar R Jain 👋 </h1>
+<h1 align="center">Hey there! I'm Pushkar R Jain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 
 ## About me :mortar_board:
