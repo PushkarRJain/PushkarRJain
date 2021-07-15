@@ -23,7 +23,7 @@ I am a student, currently studying in Pune Institute of Computer Technology. I a
 
 <a href="https://github.com/master30112001">
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=\PushkarRJain1&count_private=true&show_icons=true&theme=gotham" alt="PushkarRJain1" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=\PushkarRJain&count_private=true&show_icons=true&theme=gotham" alt="PushkarRJain1" />
 
 </a>
 
