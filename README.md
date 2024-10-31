@@ -2,7 +2,7 @@
 
 
 ## About me :mortar_board:
-Pursuing Computer Engineering. Keen to learn new things and implement projects to find solutions to problems. I'm a Full Stack Developer and a ML enthusiast.
+Pursuing MS Financial Engineering at NYU. Keen to learn new things and implement quant projects to find solutions to problems.
 
 ## Technologies I know :computer:
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
